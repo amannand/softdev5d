@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=softdev5d&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Senior Software Engineer (Go/Golang, Python, React) Developer
+Senior Software Engineer (Go/Golang, Python, React)
 
 
 # 💻 Tech Stack:
